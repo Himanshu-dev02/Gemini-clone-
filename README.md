@@ -29,7 +29,22 @@ The **Google Gemini Chatbot Clone** provides a stunning, intuitive interface tha
 - **JavaScript:** To manage the dynamic interaction within the chat interface.
 - **[Optional Framework/Library]:** Include if you use any libraries like Bootstrap or Tailwind.
 
- 
+ ## 🚀 **Getting Started**
+
+Follow these steps to run the chatbot clone on your local machine:
+
+1. **Clone the Repo:** 
+   ```bash
+   https://github.com/Himanshu-dev02/Gemini-clone-.git
+   ```
+2. **Navigate to the Project Folder:**
+   ```bash
+   cd google-gemini-chatbot-clone
+   ```
+3. **Open index.html in Your Browser:**
+   ```bash
+   open index.html
+   ```
 
 ## 💡 **Usage**
 
@@ -50,3 +65,4 @@ We welcome contributions! If you’d like to enhance the UI, add features, or re
 
 
  
+
