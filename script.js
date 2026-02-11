@@ -9,7 +9,7 @@ let userMessage = null;
 let isResponseGenerating = false;
 
 // API configuration
-const API_KEY = "AIzaSyCL6JAFUyxN-oT61Spmm0e8xw8s8IzAG5g"; // Your API key here
+const API_KEY = "YOUR_API_KEY_HERE"; // Your API key here
 const API_URL = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=${API_KEY}`;
 
 // Load theme and chat data from local storage on page load
@@ -168,5 +168,6 @@ typingForm.addEventListener("submit", (e) => {
   e.preventDefault(); 
   handleOutgoingChat();
 });
+
 
 loadDataFromLocalstorage();
