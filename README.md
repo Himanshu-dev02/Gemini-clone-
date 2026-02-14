@@ -56,7 +56,7 @@ Follow these steps to run the chatbot clone on your local machine:
 
 - **Backend Integration:** Connect the frontend to an AI-powered backend to enable real conversations.
 - **Voice Input:** Allow users to communicate with the chatbot using voice commands.
-- **Theme Options:** Provide multiple color schemes for the chatbot UI.
+- 
 
 ## 📝 **Contributing**
 
@@ -65,4 +65,5 @@ We welcome contributions! If you’d like to enhance the UI, add features, or re
 
 
  
+
 
