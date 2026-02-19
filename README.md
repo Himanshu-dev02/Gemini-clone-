@@ -1,4 +1,4 @@
-
+![LOGO](./screenshot/G1.png)
 # 🌟 **Google Gemini Chatbot Clone (Frontend)** 🌟
 
 Welcome to the **Google Gemini Chatbot Clone**! This project replicates the look and feel of the **Google Gemini Chatbot** with a focus on frontend development. It’s designed to showcase responsive design, modern UI techniques, and seamless chatbot interactions.
