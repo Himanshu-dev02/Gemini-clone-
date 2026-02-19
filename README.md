@@ -6,6 +6,9 @@ Welcome to the **Google Gemini Chatbot Clone**! This project replicates the look
 ## 🚀 **Project Summary**
 
 The **Google Gemini Chatbot Clone** provides a stunning, intuitive interface that mimics the user experience of Google’s AI-driven chatbot. This project allows you to explore cutting-edge frontend technologies, including dynamic elements and clean design practices.
+🌐 Live Demo
+
+🔗 https://https://geminiichat02.netlify.app/
 
 ## 📂 **Project Structure**
 
@@ -65,5 +68,6 @@ We welcome contributions! If you’d like to enhance the UI, add features, or re
 
 
  
+
 
 
